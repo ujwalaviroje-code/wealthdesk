@@ -1,4 +1,4 @@
-# WealthDesk -- In-Class Build
+# WealthDesk --- In-Class Build
 
 **Agentic AI Engineering, Batch 1 (June 2026)**
 
